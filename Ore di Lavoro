@@ -16,6 +16,7 @@ Stefano Girardi: 1h 15min , requisiti funz e non funz e obiettivi (discussione t
 		 3h	  , Backend D4
 		 3h	  , Creazione Api Backend, D4
                  3h       , API getBooks Backend, D4
+		 4h	  , APIs patch, Backend, D4
 Brando Corti: 40 min , prima bozza di obiettivi e requisiti
               1h 15 min, requisiti Funz e non funz, obiettivi (discussione team)
               1h 10min , prima stesura requisiti non funzionali.
@@ -42,6 +43,7 @@ Brando Corti: 40 min , prima bozza di obiettivi e requisiti
 	      1h, Backend, D4
 	      3h, Backend, D4
 	      3h, Creazione Api, D4
+	      4h, APIs patch, Backend, D4
 Zakaria Aoukaili: 1h 15min, requisiti funz e non funz e obiettivi (discussione team).
                   30 min, controllo e riscrittura obiettivi del progetto
                   3h, lavoro alla parte del front-end D1
@@ -74,3 +76,4 @@ Zakaria Aoukaili: 1h 15min, requisiti funz e non funz e obiettivi (discussione t
  		  3h, Creazione Api, D4
 		  3h 30, Lavoro al backend (API signUp e newLibro)
 		  2h, Lavoro al backend (API login e aggiunti controlli mail e password API signUp)
+		  4h, APIs patch, Backend, D4
