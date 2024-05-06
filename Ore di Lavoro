@@ -21,7 +21,8 @@ Stefano Girardi: 1h 15min , requisiti funz e non funz e obiettivi (discussione t
 		 3h	  , Fine API, Testing, D4
 		 2h 30min , Correzione errori, modifiche api getBooks, testing getBoooks
                  2h       , modifiche script.js
-		 6h       , testing api utente, modifiche api per errori dati dal testing, creazione api createApp, createPren 
+		 6h       , testing api utente, modifiche api per errori dati dal testing, creazione api createApp, createPren
+		 2h 	  , fix e testing api
 Brando Corti: 40 min , prima bozza di obiettivi e requisiti
               1h 15 min, requisiti Funz e non funz, obiettivi (discussione team)
               1h 10min , prima stesura requisiti non funzionali.
